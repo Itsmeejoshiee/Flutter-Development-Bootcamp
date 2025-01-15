@@ -1,0 +1,4 @@
+#Wed Aug 28 15:19:46 CST 2024
+base.0=C\:\\Users\\xcrayonex\\Documents\\Coding Files\\Flutter\\mi_card\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
